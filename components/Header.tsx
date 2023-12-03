@@ -127,6 +127,18 @@ function Header() {
               </Popover.Panel>
             </Transition>
           </Popover>
+          <a href="#" className="text-sm font-semibold leading-6 text-white">
+            Flights
+          </a>
+          <a href="#" className="text-sm font-semibold leading-6 text-white">
+            Car Rentals
+          </a>
+          <a href="#" className="text-sm font-semibold leading-6 text-white">
+            Attractions
+          </a>
+          <a href="#" className="text-sm font-semibold leading-6 text-white">
+            Flight + Hotel
+          </a>
         </Popover.Group>
         <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <a href="#" className="text-sm font-semibold leading-6 text-white">
