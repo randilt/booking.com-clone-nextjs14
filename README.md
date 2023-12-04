@@ -18,7 +18,7 @@ This project is a Next.js 14 application created while following Sonny Sangha's 
 
 - Developed a Next.js 14 application.
 - Implemented web scraping using the Oxylabs API.
-- Created a simple yet functional clone of Booking.com.
+- Created a simple yet functional clone of Booking.com
 
 ## Acknowledgments
 
